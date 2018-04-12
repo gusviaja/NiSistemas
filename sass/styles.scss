@@ -1,0 +1,50 @@
+
+
+
+
+// Import custom Bootstrap variables
+@import "bootstrap-variables";
+
+// Import Bootstrap Compass integration
+@import "bootstrap-compass";
+
+// Import Bootstrap for Sass
+@import "bootstrap";
+
+// Importa base scss custom geral do site, encima do boot
+@import "base";
+
+
+// Importa css custom para nav
+@import "navegacao";
+
+// Importa scss da section destaque
+@import "destaque";
+
+// Importa scss da section quemSomos
+@import "quemSomos";
+
+// Importa scss da section tecnologias
+@import "tecnologias";
+
+// Importa scss da section criacaoDeSite
+@import "criacaoDeSite";
+
+// Importa scss da section criacaoDeSistema
+@import "criacaoDeSistema";
+
+
+// Importa scss da section nihelpdesk
+@import "nihelpdesk";
+
+// Importa scss da section contato
+@import "contato";
+
+// Importa scss do footer
+@import "footer";
+
+// Import Sass para Scroll Animado
+@import "scrolando";
+
+// Import Sass para land page conheca-nihelpdesk
+@import "conheca-nihelpdesk";

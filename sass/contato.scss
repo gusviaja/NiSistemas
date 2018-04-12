@@ -1,0 +1,11 @@
+/** CONTATO FORM **/
+textarea{height:auto !important;}	
+h4.viasDeContato{text-align: center;}
+.contatos{color:#000000 !important; font-size:1.2em;}
+.panel-vias-de-contato{background-color:#23201c;}
+#botao-enviar{
+	@media(max-width:600px){
+	width:100%;
+	}
+
+}

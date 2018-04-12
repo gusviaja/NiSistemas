@@ -1,2 +1,6 @@
-footer{margin-top:40px;padding-top:20px;}
+
+@import "compass/css3";
+
+footer{padding-top:30px;padding-bottom:30px;}
+.placar{@include box-shadow(#fff 2px 2px 10px);}
 .copyright{text-align:center;}

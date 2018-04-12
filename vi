@@ -1,0 +1,103 @@
+[33mcommit 4cf0d7d4beaa7adf18529682f2e219d472c79530[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gustavo Tedesco <gusviaja@gmail.com>
+Date:   Thu Apr 12 06:47:33 2018 -0300
+
+    inicio do site novo repaginado
+
+[1mdiff --git a/.sass-cache/12ec00c679a71339480fa52679c545b62f9f0990/_css3.scssc b/.sass-cache/12ec00c679a71339480fa52679c545b62f9f0990/_css3.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c5bce94[m
+Binary files /dev/null and b/.sass-cache/12ec00c679a71339480fa52679c545b62f9f0990/_css3.scssc differ
+[1mdiff --git a/.sass-cache/12ec00c679a71339480fa52679c545b62f9f0990/_support.scssc b/.sass-cache/12ec00c679a71339480fa52679c545b62f9f0990/_support.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f688ac1[m
+Binary files /dev/null and b/.sass-cache/12ec00c679a71339480fa52679c545b62f9f0990/_support.scssc differ
+[1mdiff --git a/.sass-cache/260093f2ee9d38cae25a85b659469831376bc769/_bootstrap-variables.scssc b/.sass-cache/260093f2ee9d38cae25a85b659469831376bc769/_bootstrap-variables.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..91acecf[m
+Binary files /dev/null and b/.sass-cache/260093f2ee9d38cae25a85b659469831376bc769/_bootstrap-variables.scssc differ
+[1mdiff --git a/.sass-cache/260093f2ee9d38cae25a85b659469831376bc769/styles.scssc b/.sass-cache/260093f2ee9d38cae25a85b659469831376bc769/styles.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2956ff3[m
+Binary files /dev/null and b/.sass-cache/260093f2ee9d38cae25a85b659469831376bc769/styles.scssc differ
+[1mdiff --git a/.sass-cache/401cba7de122104fd627c493d4ab2dd8adb64b03/_hacks.scssc b/.sass-cache/401cba7de122104fd627c493d4ab2dd8adb64b03/_hacks.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f9e5c9f[m
+Binary files /dev/null and b/.sass-cache/401cba7de122104fd627c493d4ab2dd8adb64b03/_hacks.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_alerts.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_alerts.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ea2e014[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_alerts.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_background-variant.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_background-variant.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..06efe3e[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_background-variant.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_border-radius.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_border-radius.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..296b226[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_border-radius.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_buttons.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_buttons.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7705468[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_buttons.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_center-block.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_center-block.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..000bb19[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_center-block.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_clearfix.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_clearfix.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..cbe704c[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_clearfix.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_forms.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_forms.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..40c40a3[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_forms.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_gradients.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_gradients.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..097169d[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_gradients.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_grid-framework.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_grid-framework.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0fb0b9b[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_grid-framework.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_grid.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_grid.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9530062[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_grid.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_hide-text.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_hide-text.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8449ae6[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_hide-text.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_image.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_image.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..22113cd[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_image.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_labels.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_labels.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7332936[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_labels.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_list-group.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_list-group.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8665c0c[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_list-group.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_nav-divider.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_nav-divider.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fa21a21[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_nav-divider.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_nav-vertical-align.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_nav-vertical-align.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a5ca070[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_nav-vertical-align.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_opacity.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_opacity.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..61ada5b[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_opacity.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_pagination.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_pagination.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4dd2612[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_pagination.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_panels.scssc b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_panels.scssc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8e6d142[m
+Binary files /dev/null and b/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_panels.scssc differ
+[1mdiff --git a/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b

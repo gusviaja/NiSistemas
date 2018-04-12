@@ -95,7 +95,7 @@
 </div>		
 	
 		<!-- FOOTER -->
-		<div class="container">
+		<div class="container-full">
 			<?php include_once "footer.php" ?>
 		</div>	
 

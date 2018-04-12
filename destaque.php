@@ -7,7 +7,7 @@
 				<header>
 					  <h1 class="text-center">Que bom que chegou!</h1>
 					  <p class="text-center">Ni Sistemas cria Sites e Web Apps com foco em qualidade.</p>
-					 <p class="text-center"><a class="btn btn-primary btn-lg text-center" href="#" role="button">Vamos começar</a></p>
+					 <p class="text-center"><a class="btn btn-primary btn-lg text-center scrollar" href="#quemSomos" role="button">Vamos começar</a></p>
 				</header> 
 			</article>		
 		</div>

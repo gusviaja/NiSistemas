@@ -27,21 +27,34 @@
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet">
 
-		<!-- <link rel="stylesheet" type="text/css" href="./css/estilo.css"> -->
 
-
+<!-- Marcado JSON-LD generado por el Asistente para el marcado de datos estructurados de Google. -->
 <script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Organization",
-  "url": "https://www.nisistemas.com.br",
-  "name": "Ni Sistemas Premium",
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+11 999914755",
-    "contactType": "Sales"
+[ {
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "Ni Sistemas",
+  "image" : "https://www.nisistemas.com.br/img/logo-nisistemas.png",
+  "telephone" : "11 999914755",
+  "email" : "gustavo@nisistemas.com.br",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Capão Redondo",
+    "addressCountry" : "Brasil"
   }
-}
+}, {
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "Ni Sistemas",
+  "image" : "https://www.nisistemas.com.br/img/logo-nisistemas.png",
+  "telephone" : "11 999914755",
+  "email" : "gustavo@nisistemas.com.br",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "São Paulo",
+    "addressCountry" : "Brasil"
+  }
+} ]
 </script>
 
 	</head>

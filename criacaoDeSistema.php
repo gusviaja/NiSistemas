@@ -6,7 +6,7 @@
 			
 			<div class="col-md-5">
 				<figure class="imgCriacaoDeSistema">
-  					<img clas="img img-responsive" src="./img/imgCriacaoDeSistema.png" alt="Criação de sistemas" title="Ni Sistemas cria sistemas em São Paulo" width="404" height="344">
+  					<img class="img img-responsive" src="./img/imgCriacaoDeSistema.png" alt="Criação de sistemas" title="Ni Sistemas cria sistemas em São Paulo" width="404" height="344">
   					<figcaption>Crie seu sitema com Ni Sistemas. - Bom, bonito e barato.<strong>11 999914755</strong></figcaption>
 				</figure>
 				<a href="https://api.whatsapp.com/send?lang=pt&phone=5511999914755" class="btn btn-block btn-success">Contatar agora</a>

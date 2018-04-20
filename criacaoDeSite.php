@@ -16,10 +16,10 @@
 			</div>	
 			<div class="col-md-5">
 				<figure class="imgCriacaoDeSite">
-  					<img class="img-responsive" src="./img/imgCriacaoDeSite.png" alt="Criação de sites" title="Ni Sistemas cria sites em São Paulo" width="404" height="344">
+  					<img class="img-responsive" src="./dist/img/imgCriacaoDeSite.png" alt="Criação de sites" title="Ni Sistemas cria sites em São Paulo" width="404" height="344">
   					<figcaption>Crie seu site com Ni Sistemas. - Bom, bonito e barato.<strong>11 999914755</strong></figcaption>
 				</figure>
-				<a href="https://api.whatsapp.com/send?lang=pt&phone=5511999914755" class="btn btn-block btn-success">Contatar agora</a>
+				<a target="blank" href="https://api.whatsapp.com/send?lang=pt&phone=5511999914755" class="btn btn-block btn-success">Contatar agora</a>
 			</div>
 		</div>
 		<div class="nota">

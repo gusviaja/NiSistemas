@@ -19,10 +19,10 @@
 		<title>NI Sistemas Web | Criação de sites e sistemas informáticos em SP</title>
 		<meta name="viewport" content="width=device-width" initial-scale="1.0" />
 		<meta name="description" content="Criação de Sites em São Paulo com qualidade e pagamento parcelado em 12x. Criação de sistemas web em Capão Redondo, Morumbi, Campo Limpo. Sites responsivos, SEO e geração de leads. Acesse o Site e Conheça Nossos Preços Promocionais!" />
-		<link rel="shortcut icon" href="img/logo-copyright-nisistemas.png"/>
+		<link rel="shortcut icon" href="dist/img/logo-copyright-nisistemas.png"/>
 		<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="./css/styles.css">
+		<link rel="stylesheet" type="text/css" href="./dist/css/styles.css">
 		<link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet">

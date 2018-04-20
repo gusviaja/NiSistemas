@@ -38,7 +38,9 @@
 					<div class="row">
 						<div class="col-sm-6 col-md-6">
 						 	<div class="post">
-							      <img src="./img/html5-logo.gif" alt="html5-logo" class="img img-responsive">
+						 		<div class="spriteImg sp1">
+							      <!-- <img src="./img/html5-logo.gif" alt="html5-logo" class="img img-responsive"> -->
+							  	</div>
 							      <div class="caption">
 							       <h4 class="tituloPost">Html5/CSS3</h4>
 							        <p>O poder semantico em pro do seu negócio.</p>
@@ -49,7 +51,9 @@
 						
 						<div class="col-sm-6 col-md-6">
 						    <div class="post">
-						      <img src="./img/jquery-logo.gif" class="img img-responsive" alt="JQuery-logo">
+						    <div class="spriteImg sp2">
+						      <!-- <img src="./img/jquery-logo.gif" class="img img-responsive" alt="JQuery-logo"> -->
+						     </div> 
 						      <div class="caption">
 						       <h4 class="tituloPost">Jquery/Ajax</h4>
 						        <p>Dyamismo na cresta da onda. Criacao e manipulacao de plugins.</p>
@@ -57,12 +61,14 @@
 						      </div>
 						    </div>
 						</div>
-					</div><!-- END ROW --> 
+					</div><!-- END ROW1--> 
 
 				<div class="row">
 					<div class="col-sm-6 col-md-6">
 					    <div class="post">
-					      <img src="./img/bs-logo.gif" alt="Bootstrap-logo" class="img img-responsive">
+					    	<div class="spriteImg sp3">
+					      <!-- <img src="./img/bs-logo.gif" alt="Bootstrap-logo" class="img img-responsive"> -->
+					      	</div>
 					      <div class="caption">
 					       <h4 class="tituloPost">Bootstrap</h4>
 					        <p>Agilidade eficiente na criação do Front End.</p>
@@ -72,7 +78,9 @@
 					</div>
 					<div class="col-sm-6 col-md-6">
 					    <div class="post">
-					      <img src="./img/sass-compass-logo.gif" alt="Sass e Compass Logo" class="img img-responsive">
+					    	<div class="spriteImg sp4">
+					      <!-- <img src="./img/sass-compass-logo.gif" alt="Sass e Compass Logo" class="img img-responsive"> -->
+					  		</div>
 					      <div class="caption">
 					       <h4 class="tituloPost">Sass/Compass</h4>
 					        <p>Estilização agilizada e normalizada com Preprocessadores CSS.</p>
@@ -80,22 +88,27 @@
 					      </div>
 					    </div>
 					</div>
-				</div><!-- END ROW -->  
+				</div><!-- END ROW 2-->  
 
 				<div class="row">
 					<div class="col-sm-6 col-md-6">
-					    <div class="post">
-					      <img src="./img/php-logo.gif" alt="php-logo.gif" class="img img-responsive">
-					      <div class="caption">
-					       <h4 class="tituloPost">PHP/MySQL</h4>
-					        <p>BackEnd com a linguagem mais popular do planeta.</p>
-					       
-					      </div>
-					    </div>
-					</div>
+						    <div class="post">
+							    <div class="spriteImg sp5">	
+							     <!--  <img src="./img/php-logo.gif" alt="php-logo.gif" class="img img-responsive">
+							      <div class="caption"> -->
+							    </div>
+							    <div class="caption">	 	
+							       <h4 class="tituloPost">PHP/MySQL</h4>
+							        <p>BackEnd com a linguagem mais popular do planeta.</p>
+							       
+							    </div>
+						 	</div>
+					</div>	 	
 					<div class="col-sm-6 col-md-6">
 					    <div class="post">
-					      <img src="./img/codeIgniter-logo.gif" alt="CodeIgniter Logo" class="img img-responsive">
+					    	<div class="spriteImg sp6">
+					     <!--  <img src="./img/codeIgniter-logo.gif" alt="CodeIgniter Logo" class="img img-responsive"> -->
+							</div>				     
 					      <div class="caption">
 					       <h4 class="tituloPost">CodeIgniter</h4>
 					        <p>Popular e poderoso frameWork, uma verdadeira mão na roda.</p>
@@ -103,12 +116,14 @@
 					      </div>
 					    </div>
 					</div>
-				</div><!-- END ROW --> 
+				</div><!-- END ROW 3--> 
 
 				<div class="row">
 					<div class="col-sm-6 col-md-6">
 					    <div class="post">
-					      <img src="./img/wordpress-logo.gif" alt="Wordpress Logo" class="img img-responsive">
+					    	<div class="spriteImg sp7">
+					      <!-- <img src="./img/wordpress-logo.gif" alt="Wordpress Logo" class="img img-responsive"> -->
+					      	</div>
 					      <div class="caption">
 					       <h4 class="tituloPost">WordPress Blog</h4>
 					        <p>O CMS com a maior comunidade de dev do planeta.</p>
@@ -118,7 +133,9 @@
 					</div>
 					<div class="col-sm-6 col-md-6">
 					    <div class="post">
-					      <img src="./img/woocommerce-logo.gif" alt="CodeIgniter Logo" class="img img-responsive">
+					    <div class="spriteImg sp8">	
+					      <!-- <img src="./img/woocommerce-logo.gif" alt="CodeIgniter Logo" class="img img-responsive"> -->
+					     </div> 
 					      <div class="caption">
 					       <h4 class="tituloPost">Woo Commerce</h4>
 					        <p>Plugin para levantar rapidamente um e-commerce WordPress.</p>
@@ -126,12 +143,14 @@
 					      </div>
 					    </div>
 					</div>
-				</div><!-- END ROW --> 
+				</div><!-- END ROW 4--> 
 
 				<div class="row">
 					<div class="col-sm-6 col-md-6">
 					    <div class="post">
-					      <img src="./img/logoLaravel.png" alt="Laravel Logo" class="img img-responsive">
+					    <div class="spriteImg sp9">	
+					      <!-- <img src="./img/logoLaravel.png" alt="Laravel Logo" class="img img-responsive"> -->
+					     </div> 
 					      <div class="caption">
 					       <h4 class="tituloPost">Laravel 5.0 up</h4>
 					        <p>Tendencia em MVC PHP.</p>
@@ -141,7 +160,9 @@
 					</div>
 					<div class="col-sm-6 col-md-6">
 					    <div class="post">
-					      <img src="./img/logoGit.png" alt="Git Logo" class="img img-responsive">
+						    <div class="spriteImg sp10">	
+						      <!-- <img src="./img/logoGit.png" alt="Git Logo" class="img img-responsive"> -->
+						    </div>  
 					      <div class="caption">
 					       <h4 class="tituloPost">GIT</h4>
 					        <p>Código versionado com Git.</p>
@@ -149,7 +170,7 @@
 					      </div>
 					    </div>
 					</div>
-				</div><!-- END ROW --> 
+				</div><!-- END ROW 5 --> 
 			</div>	
 		</section>		
 	</div>			

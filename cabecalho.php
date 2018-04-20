@@ -12,7 +12,7 @@
 				<div class="navbar-header">
 					<a class="navbar-brand" href="https://www.nisistemas.com.br">
 						
-						<img class="img img-responsive" src="./img/logo-nisistemas.png" alt="Ni Sistemas | Criacao de sites e sistemas em Barueri SP" width="234" height="45">
+						<img class="img img-responsive" src="./dist/img/logo-nisistemas.png" alt="Ni Sistemas | Criacao de sites e sistemas em Barueri SP" width="234" height="45">
 						<h1 class="fontzero">Criação de Web Sites em Sáo Paulo | Ni Sistemas</h1>
 					</a>
 				  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">

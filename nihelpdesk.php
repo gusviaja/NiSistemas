@@ -8,7 +8,7 @@
 		<article class="row slideH">
 			<div class="col-xs-12 col-sm-6 col-md-3">
 				<div class="thumbnail sliphover">
-					<a href="conheca-nihelpdesk.php"><img src="./img/tela-login-nihelpdesk.jpg" title="Conheça Ni Helpdesk" ></a>
+					<a href="conheca-nihelpdesk.php"><img src="./dist/img/tela-login-nihelpdesk.jpg" title="Conheça Ni Helpdesk" ></a>
 					
 						<div class="caption">
 							<h3>Criação de usuarios</h3>
@@ -22,7 +22,7 @@
 		
 			<div class="col-xs-12 col-sm-6 col-md-3">
 				<div class="thumbnail slideanim slide sliphover">
-					<a href="conheca-nihelpdesk.php"><img src="./img/tela-listado-nihelpdesk.jpg" title="Conheça Ni Helpdesk"></a>
+					<a href="conheca-nihelpdesk.php"><img src="./dist/img/tela-listado-nihelpdesk.jpg" title="Conheça Ni Helpdesk"></a>
 					<div class="caption">
 						<h3>Listagem Inteligente</h3>
 						<p>Listagem de pendencias com altertas de SLA e busca Ajax de Chamados</p>
@@ -33,7 +33,7 @@
 		
 			<div class="col-xs-12 col-sm-6 col-md-3">
 				<div class="thumbnail sliphover">
-					<a href="conheca-nihelpdesk.php"><img src="./img/tela-chamado-novo-nihelpdesk.jpg" title="Conheça Ni Helpdesk"></a>
+					<a href="conheca-nihelpdesk.php"><img src="./dist/img/tela-chamado-novo-nihelpdesk.jpg" title="Conheça Ni Helpdesk"></a>
 					<div class="caption">
 						<h3>Criação de Chamados</h3>
 						<p>Anexos comprimidos e UX ideal para seu cliente</p>
@@ -46,7 +46,7 @@
 
 			<div class="col-xs-12 col-sm-6 col-md-3">
 				<div class="thumbnail sliphover">
-					<a href="conheca-nihelpdesk.php"><img src="./img/tela-perfil-nihelpdesk.jpg" title="Conheça Ni Helpdesk"></a>
+					<a href="conheca-nihelpdesk.php"><img src="./dist/img/tela-perfil-nihelpdesk.jpg" title="Conheça Ni Helpdesk"></a>
 					<div class="caption">
 						<h3>Edição de Perfil</h3>
 						<p>Presonalização de perfil do usuario com inserção de imagem e dados de contato</p>

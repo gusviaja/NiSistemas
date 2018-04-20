@@ -10,21 +10,21 @@
       <!-- Wrapper for slides -->
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img src="img/slide/slide1.jpg" alt="Bela Sáo Paulo">
+          <img src="dist/img/slide/slide1.jpg" alt="Bela Sáo Paulo">
           <div class="carousel-caption">
             <h3>Que bom que chegou!</h3>
             <p>Criamos sites e sistemas que geram resultados</p>
           </div>
         </div>
         <div class="item">
-          <img src="img/slide/slide2.jpg" alt="Bela Sáo Paulo"">
+          <img src="dist/img/slide/slide2.jpg" alt="Bela Sáo Paulo"">
           <div class="carousel-caption">
             <h3>Que bom que chegou!</h3>
             <p>Criamos sites e sistemas que geram resultados</p>
           </div>
         </div>
          <div class="item">
-          <img src="img/slide/slide3.jpg" alt="Bela Sáo Paulo">
+          <img src="dist/img/slide/slide3.jpg" alt="Bela Sáo Paulo">
           <div class="carousel-caption">
             <h3>Que bom que chegou!</h3>
             <p>Criamos sites e sistemas que geram resultados</p>

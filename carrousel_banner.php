@@ -10,11 +10,11 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="./img/sites-responsivos.jpg" alt="Sites Responsivos de Ni Sistemas">
+      <img src="./dist/img/sites-responsivos.jpg" alt="Sites Responsivos de Ni Sistemas">
       
     </div>
     <div class="item">
-      <img src="./img/nihelpdesk.jpg" alt="Ni Helpdesk software de atendimento">
+      <img src="./dist/img/nihelpdesk.jpg" alt="Ni Helpdesk software de atendimento">
       
     </div>
     

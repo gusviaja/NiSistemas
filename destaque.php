@@ -3,7 +3,7 @@
 	
 	<div class="row">
 		<div class="col-md-6">
-			<article class="jumbotron chamada">
+			<article class="jumbotron chamada" >
 				<header>
 					  <h1 class="text-center">Que bom que chegou!</h1>
 					  <p class="text-center">Ni Sistemas cria Sites e Web Apps com foco em qualidade.</p>
@@ -17,7 +17,7 @@
 		<div class="col-md-4">
 			
 				<article class="artigoFormMini">
-				  <form class="formChamada" method="post" action="envia-contato.php"> 
+				  <form class="" method="post" action="envia-contato.php"> 
 					<div class="row">
 						
 							<div class="col-md-12 form-group">

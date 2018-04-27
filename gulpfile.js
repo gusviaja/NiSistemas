@@ -25,7 +25,7 @@ gulp.task('build-img',function(){
 
 gulp.task('build-js',function(){
 
-	gulp.src(['dist/js/jquery.js','dist/js/bootstrap.min.js','dist/js/bootstrap-sprockets.js','dist/js/jquery.sliphover.min.js', 'dist/js/scrolando.js','dist/js/animacoes.js'])
+	gulp.src(['dist/js/jquery.js','dist/js/jqueryui.min.js','dist/js/bootstrap.min.js','dist/js/bootstrap-sprockets.js','dist/js/jquery.sliphover.min.js', 'dist/js/scrolando.js','dist/js/animacoes.js'])
 	.pipe(concat('all.js'))
 	.pipe(uglify())
 	.pipe(gulp.dest('dist/js'));

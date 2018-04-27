@@ -16,18 +16,18 @@ $mail = new PHPMailer;
 
 $mail->SMTPDebug = 0;                                 // Enable verbose debug output
 $mail->isSMTP();        
-$mail->Host = 'smtp.gmail.com';
+$mail->Host = 'mx1.hostinger.com.br';
 $mail->Port = 587;
-$mail->SMTPSecure = 'tls';
+$mail->SMTPSecure = '';
 $mail->SMTPAuth = true;
-$mail->Username = "gusviaja@gmail.com";
-$mail->Password = "rafa6038";
+$mail->Username = "gustavo@nisistemas.com.br";
+$mail->Password = "alfa8888";
 
 //Ask for HTML-friendly debug output
 $mail->Debugoutput = 'html';
 
-$mail->setFrom("gusviaja@gmail.com", "Formulario de contato de site Ni Sistemas");
-$mail->addAddress("gusviaja@gmail.com");
+$mail->setFrom("gustavo@nisistemas.com.br", "Formulario de contato de site Ni Sistemas");
+$mail->addAddress("gustavo@nisistemas.com.br");
 $mail->Subject = "Email de form de contato da Ni Sistemas";
 $mail->Body = $conteudoEmail;
 //Replace the plain text body with one created manually

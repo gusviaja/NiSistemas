@@ -11,6 +11,7 @@
 }
 
 .artigoFormMini{
+    display:none;
 	margin-top:60px;
 	background-image: url(../img/bckForm.png);
 	border-radius:8px;
@@ -18,7 +19,8 @@
     padding: 15px;
     border-image: url(../img/bckBorderForm.png) 30% round;}
 
-.formChamada{}
+.chamada{display:none;}
+
 .jumbotron header h1{color:#fffcf8;font-size:44px;}
 .jumbotron header p{color:#ded7d7; font-size:18px;}
 .jumbotron header p a{margin:0 auto; text-align:center;}

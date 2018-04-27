@@ -10,3 +10,10 @@ h1,h2,h3{font-family: 'Ubuntu', sans-serif !important;}
 	.navbar-nav>.active>a:focus{background-color:#000;}
 	.navbar-brand{max-width:190px;padding:2px;}
 	.material-icons{vertical-align:middle;}
+
+	input,textarea{-webkit-transition: background-color 2s !important; 
+   		transition: background-color 2s !important;
+   		transition-timing-function: ease-out!important;
+   		-webkit-transition-timing-function: ease-out !important;}
+
+input:focus,textarea:focus{background-color:#ccc !important;color:#fff !important; }

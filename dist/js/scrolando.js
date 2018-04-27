@@ -3,7 +3,7 @@ $(document).ready(function(){
 
     $(this).addClass("slideVertical");
   });
-  $(this).addClass("slideVertical");
+  // $(this).addClass("slideVertical");
 
   // Add smooth scrolling to all links in navbar + footer link
   $(".scrollar,.vamosDevagar").on('click', function(event) {

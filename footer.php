@@ -9,8 +9,11 @@
 	</footer>
 	<!-- build:js -->
 	<script src="./dist/js/all.js"></script>
-	<!-- <script src="./dist/js/bootstrap.min.js"></script>
-	<script src="./dist/js/animacoes.js"></script>
-	<script src="./dist/js/scrolando.js"></script>
-	<script src="./dist/js/jquery.sliphover.min.js"></script> -->
-	<!-- endbuild -->
+	<!-- <script src="./src/js/jquery.js"></script>
+	<script src="./src/js/jqueryui.min.js"></script>
+	<script src="./src/js/bootstrap.min.js"></script>
+	<script src="./src/js/jquery.sliphover.min.js"></script>
+	<script src="./src/js/animacoes.js"></script>
+	<script src="./src/js/scrolando.js"></script> -->
+	
+	<!-- endbuild

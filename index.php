@@ -79,9 +79,10 @@
 		</header>
 		<?php
 	if (isset ($_GET["enviado"]) && $_GET["enviado"] == "true"):
-		echo "<div class='container'><div class='alert alert-success'><i class='material-icons'>error_outline</i> A mensagem foi enviada com sucesso!</div> </div";
+		?><script>alert("Obrigado, a mensagem foi enviada com sucesso");</script>
+		<?php 
 	elseif(isset ($_GET["enviado"]) && $_GET["enviado"] == "false"):
-		echo "<div class='container'><div class='alert alert-danger'><i class='material-icons'>error_outline</i> Não foi possivel enviar a mensagem</div></div>";
+		?><script>alert("Náo foi possivel enviar o recado, favor enviar email a gustavo@nisistemas.com.br");</script> <?php
 	endif;
 	?>
 		<div class="container-full">	

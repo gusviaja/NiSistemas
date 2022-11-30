@@ -20,8 +20,8 @@ $mail->Host = 'mx1.hostinger.com.br';
 $mail->Port = 587;
 $mail->SMTPSecure = '';
 $mail->SMTPAuth = true;
-$mail->Username = "gustavo@nisistemas.com.br";
-$mail->Password = "alfa8888";
+$mail->Username = "";
+$mail->Password = "";
 
 //Ask for HTML-friendly debug output
 $mail->Debugoutput = 'html';
